@@ -114,7 +114,7 @@
 	  <tr>
 	    <td height="20"><table width="100%" border="0" cellspacing="0" cellpadding="0" class="login-buttom-bg">
 	      <tr>
-	        <td align="center"><span class="login-buttom-txt STYLE1">在线考试系统Copyright &copy; 2009-2010 </span></td>
+	        <td align="center"><span class="login-buttom-txt STYLE1">在线考试系统Copyright &copy; 2016.11-  LinZhen </span></td>
 	      </tr>
 	    </table></td>
 	  </tr>
